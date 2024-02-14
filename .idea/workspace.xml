@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e6900fa-6e6a-4642-9dba-52010e1946bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+    <list default="true" id="6e6900fa-6e6a-4642-9dba-52010e1946bf" name="Changes" comment="License">
+      <change afterPath="$PROJECT_DIR$/.example-env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extensions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extensions/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extensions/shortened_url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +26,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -53,20 +64,26 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/extensions" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="clpsit" type="Python.FlaskServer">
       <module name="clpsit" />
-      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="target" value="$PROJECT_DIR$/src/app.py" />
       <option name="targetType" value="PATH" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -92,11 +109,24 @@
       <updated>1707937636711</updated>
       <workItem from="1707937646585" duration="59000" />
       <workItem from="1707937723286" duration="22000" />
-      <workItem from="1707937753788" duration="1207000" />
+      <workItem from="1707937753788" duration="11950000" />
     </task>
+    <task id="LOCAL-00001" summary="License">
+      <option name="closed" value="true" />
+      <created>1707938983243</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707938983243</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="License" />
+    <option name="LAST_COMMIT_MESSAGE" value="License" />
   </component>
 </project>
