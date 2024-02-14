@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e6900fa-6e6a-4642-9dba-52010e1946bf" name="Changes" comment="License">
-      <change afterPath="$PROJECT_DIR$/.example-env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extensions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extensions/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extensions/shortened_url.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6e6900fa-6e6a-4642-9dba-52010e1946bf" name="Changes" comment="Should be kinda functional">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.example-env" beforeDir="false" afterPath="$PROJECT_DIR$/example.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +36,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -109,7 +104,7 @@
       <updated>1707937636711</updated>
       <workItem from="1707937646585" duration="59000" />
       <workItem from="1707937723286" duration="22000" />
-      <workItem from="1707937753788" duration="11950000" />
+      <workItem from="1707937753788" duration="12211000" />
     </task>
     <task id="LOCAL-00001" summary="License">
       <option name="closed" value="true" />
@@ -119,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707938983243</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Should be kinda functional">
+      <option name="closed" value="true" />
+      <created>1707949899030</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707949899030</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +130,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="License" />
-    <option name="LAST_COMMIT_MESSAGE" value="License" />
+    <MESSAGE value="Should be kinda functional" />
+    <option name="LAST_COMMIT_MESSAGE" value="Should be kinda functional" />
   </component>
 </project>
