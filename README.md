@@ -32,6 +32,7 @@ The API is a simple REST API that allows users to create, read, update, and dele
 ## Roadmap
 - [x] **URL Shortening:** Create a basic URL shortening service with a simple web interface and API.
 - [x] **URL Redirection:** Enable the shortened URLs to redirect to the original URLs when accessed.
+- [ ] **GitHub Actions:** Set up continuous integration and deployment workflows to automate Code checking.
 - [ ] **URL Expiration:** Implement a time-to-live (TTL) feature to allow users to set expiration times for shortened URLs.
 - [ ] **Modular Design:** Refactor the codebase to be modular, allowing for easy feature selection and maintenance.
 - [ ] **Custom URL Endings:** Implement functionality for users to create personalized short URL suffixes.

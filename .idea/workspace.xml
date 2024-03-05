@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e6900fa-6e6a-4642-9dba-52010e1946bf" name="Changes" comment="Should be kinda functional">
+    <list default="true" id="6e6900fa-6e6a-4642-9dba-52010e1946bf" name="Changes" comment="update: RoadMap">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -106,7 +106,7 @@
       <workItem from="1707937753788" duration="12323000" />
       <workItem from="1708368201913" duration="1230000" />
       <workItem from="1708459276894" duration="603000" />
-      <workItem from="1709657789573" duration="1436000" />
+      <workItem from="1709657789573" duration="1501000" />
     </task>
     <task id="LOCAL-00001" summary="License">
       <option name="closed" value="true" />
@@ -132,15 +132,35 @@
       <option name="project" value="LOCAL" />
       <updated>1707950155577</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update: RoadMap">
+      <option name="closed" value="true" />
+      <created>1709659330402</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709659330402</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="License" />
     <MESSAGE value="Should be kinda functional" />
-    <option name="LAST_COMMIT_MESSAGE" value="Should be kinda functional" />
+    <MESSAGE value="update: RoadMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: RoadMap" />
   </component>
 </project>
