@@ -5,14 +5,7 @@
 
 version: 2
 updates:
-  # Configuration for pip (requirements.txt)
-  - package-ecosystem: "pip"  # Specifies the pip ecosystem for requirements.txt
-    directory: "/"  # Location of the requirements.txt file in your repository
+  - package-ecosystem: "pip"
+    directory: "/"
     schedule:
-      interval: "weekly"  # Dependabot will check for updates weekly
-
-  # Configuration for Poetry
-  - package-ecosystem: "poetry"  # Specifies the poetry ecosystem
-    directory: "/"  # Location of the pyproject.toml file in your repository
-    schedule:
-      interval: "weekly"  # Dependabot will check for updates weekly
+      interval: "weekly"
