@@ -1401,16 +1401,16 @@ typing-extensions = ">=4.7.1"
 
 [[package]]
 name = "semgrep"
-version = "1.63.0"
+version = "1.66.0"
 description = "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code."
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "semgrep-1.63.0-cp38.cp39.cp310.cp311.py37.py38.py39.py310.py311-none-any.whl", hash = "sha256:281898775cd60f1b394f6006478f68fd7d89e9eb29baa8bbca40a1dd9b20f22e"},
-    {file = "semgrep-1.63.0-cp38.cp39.cp310.cp311.py37.py38.py39.py310.py311-none-macosx_10_14_x86_64.whl", hash = "sha256:11f56929d444e6abc454c1aef1050cd7cdd83cd0e383142571ade751bde6d6dc"},
-    {file = "semgrep-1.63.0-cp38.cp39.cp310.cp311.py37.py38.py39.py310.py311-none-macosx_11_0_arm64.whl", hash = "sha256:92caa455d13b6886de1134b12e90d779fe879afec6e4bc50d3ebfefc6f4ea4a9"},
-    {file = "semgrep-1.63.0-cp38.cp39.cp310.cp311.py37.py38.py39.py310.py311-none-musllinux_1_0_aarch64.manylinux2014_aarch64.whl", hash = "sha256:e178e9a83b5ffc0a26175b00ffd9b747d613971be8e52f70fd0ad415097a7d92"},
-    {file = "semgrep-1.63.0.tar.gz", hash = "sha256:b73c67dc94fe487f4fe87e0c0e8193602c8dd79cf1f841b1209d610239acc46a"},
+    {file = "semgrep-1.66.0-cp38.cp39.cp310.cp311.py37.py38.py39.py310.py311-none-any.whl", hash = "sha256:3d1fe1e22edc9ba8a6ea45fd9c9a253703b39c13fd6a300438f0011770c0d2c9"},
+    {file = "semgrep-1.66.0-cp38.cp39.cp310.cp311.py37.py38.py39.py310.py311-none-macosx_10_14_x86_64.whl", hash = "sha256:09deda5eab7b2261f8e6a65d63f5f3c986a9362066ad00e280c6efe5a5207ca1"},
+    {file = "semgrep-1.66.0-cp38.cp39.cp310.cp311.py37.py38.py39.py310.py311-none-macosx_11_0_arm64.whl", hash = "sha256:fe17ceebf94d829c0700496e93062a643630c2da40135dc1198c5b75cab9867b"},
+    {file = "semgrep-1.66.0-cp38.cp39.cp310.cp311.py37.py38.py39.py310.py311-none-musllinux_1_0_aarch64.manylinux2014_aarch64.whl", hash = "sha256:f50d920f92aa2f280d36f9fc5f9fec016c248edf8e45225eaf37c507e4b4f20c"},
+    {file = "semgrep-1.66.0.tar.gz", hash = "sha256:8c5279ce20c1b122aabc0c073832a089f238f92739fa61895d51cfafa59d7fa6"},
 ]
 
 [package.dependencies]
@@ -1557,4 +1557,4 @@ watchdog = ["watchdog (>=2.3)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "7d3f8e44e59f43f38f6dacc28142aeaa90c21bce42d7825f041f3371212f6e58"
+content-hash = "8ae7c0be136abf06572fe347d14b49772615593254c7f68602c60f66c11318a3"
